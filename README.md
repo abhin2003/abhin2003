@@ -15,10 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://smartcontracts.org/docs/language-guide/motoko.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Motoko_Logo.svg" alt="motoko" width="40" height="40"/> </a> 
-<a href="https://dfinity.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22204515?s=200&v=4" alt="icp" width="40" height="40"/> </a> 
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
+<p align="left"> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe xd" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> 
