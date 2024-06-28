@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhin-s-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="abhin-s-krishna" /> </p>
 
-- I’m currently learning **Motoko ICP Blockchain**
+- I’m currently learning **Motoko, ICP Blockchain**
 
 - Contact: **unniskrishna3@gmail.com**
 
