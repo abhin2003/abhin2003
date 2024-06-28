@@ -5,7 +5,7 @@
 
 - I’m currently learning **Motoko ICP Blockchain**
 
-- Contact: **abhinskrishna3@gmail.com**
+- Contact: **unniskrishna3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
